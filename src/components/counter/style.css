@@ -1,0 +1,9 @@
+.counter__item {
+  display: flex;
+  align-items: center;
+  font-size: 21px;
+  margin-right: 15px;
+}
+.counter__item-bold {
+  font-weight: bold;
+}

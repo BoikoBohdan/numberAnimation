@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100vh;
+}
+.counters {
+  display: flex;
+}
+.counter__empty {
+  width: 50px;
+}
